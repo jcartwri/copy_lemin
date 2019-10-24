@@ -1,0 +1,3 @@
+/home/kitos/Рабочий стол/lem-in/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+/home/kitos/Рабочий стол/lem-in/cmake-build-debug/CMakeFiles/lem_in.dir
+/home/kitos/Рабочий стол/lem-in/cmake-build-debug/CMakeFiles/edit_cache.dir

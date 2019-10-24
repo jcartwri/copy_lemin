@@ -1,0 +1,34 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/kitos/Рабочий стол/lem-in/checker/record_links.c
+../lem-in.h
+/home/kitos/Рабочий стол/lem-in/lem-in.h
+
+/home/kitos/Рабочий стол/lem-in/lem-in.h
+stdio.h
+-
+lib/printf/libft/libft.h
+/home/kitos/Рабочий стол/lem-in/lib/printf/libft/libft.h
+lib/printf/libft/get_next_line.h
+/home/kitos/Рабочий стол/lem-in/lib/printf/libft/get_next_line.h
+
+/home/kitos/Рабочий стол/lem-in/lib/printf/libft/get_next_line.h
+libft.h
+/home/kitos/Рабочий стол/lem-in/lib/printf/libft/libft.h
+
+/home/kitos/Рабочий стол/lem-in/lib/printf/libft/libft.h
+unistd.h
+-
+string.h
+-
+stdlib.h
+-
+get_next_line.h
+/home/kitos/Рабочий стол/lem-in/lib/printf/libft/get_next_line.h
+
